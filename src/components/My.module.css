@@ -1,0 +1,8 @@
+.container{
+    border: 1px solid black;
+    display:  grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.main{
+    border: 1px solid black;
+}
